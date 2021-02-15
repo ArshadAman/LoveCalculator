@@ -1,0 +1,19 @@
+body{
+    background-color: pink;
+    font-family: 'Source Code Pro', monospace;
+}
+
+h2{
+    font-family: 'Fira Sans', sans-serif;
+}
+
+
+.center {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 8px;
+  }
+  
+  .image {
+    width: 20%;
+  }
